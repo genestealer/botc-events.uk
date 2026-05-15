@@ -29,5 +29,5 @@ events:
     rrule: FREQ=MONTHLY;BYDAY=1TH,3TU
     location: royal-pug
     event_id: clocktower-leamington
-  adhoc:
+  adhoc: []
 ---
